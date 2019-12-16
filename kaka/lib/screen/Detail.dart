@@ -12,7 +12,7 @@ class Detail extends StatelessWidget {
         ],
       ),
       body: Center(
-        child: Image.network('https://static.posters.cz/image/1300/naptarak/real-madrid-i66709.jpg',
+        child: Image.network('https://lh3.googleusercontent.com/RWyqHwbDkErZdbTyqxJ6RaLoCAwScUDs5lWnSE4J0fhHI1RXu9XqYM9N_Ioy2s6VZkOlok_uGqkqE5LxDEt_ff2dciryRtjIEu_f1_yMXuIKFJuBTDGWf41expXKXHZBXqvp7Ndb-uMsKid5J8KDW9HEbdY2Q1ihUJk0o2C-XsfsStmj0AWb9RNtbR6a9670tDb0mcbwiaji4o0k4VdmCYJPc9SsblAfXEMsnDIlFmUxVSKSflkp7vsSmRNdcJH4mc_agDcW79n2ATIZBwn3TMz_fcXLZtpgf6QybTUiiE_3OXKkf8ksF8AGV7znPUb3gkfVMwhN0EvmyF6HCGdniRk-vkzG1tNagFQEN-6E07qJy0pgXUkb1NCp0tjhL13HmWP7NPwoMyl6bSbcGCZstIwjlw4N3jnWssw9pk_-bYxP9ueDqDWaPNCiSEmZwDrry5WKGk-c5nlB3XW1yO50ZuBVhtSz0XsvpsEMOjZvzBP3JoVKBeiNnYflwwD43YNZxOorpFQn3_0u1VA42WBcNOnkA5x51TicWMg_uxbuPschxeLNygd4J5_2rJqy7bLfdrRORWQM4d9TRMKqIVV8fwyMxfKQznO5nf_dqJvFqe9av14Q0dhVaCYAgF-UO4OSFo5Xr-rqzzogS1KpxqoQTRty4zdVeZErLuFnq4u017K9_VxLYHfjDg=w453-h604-no',
         fit: BoxFit.cover,
         height: double.infinity,
         ),
